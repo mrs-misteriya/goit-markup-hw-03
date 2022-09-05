@@ -38,6 +38,7 @@ margin: 0;
 padding: 0;
 }
 
+
 .container {
   width: 1200px;
   padding-right: 15px;
@@ -90,6 +91,12 @@ align-items: center;
 .auth{
   display: flex;
   margin-left: 344px;
+}
+ 
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .nav-list:not(:last-child){
